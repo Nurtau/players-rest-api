@@ -32,7 +32,7 @@ Get the list of basketball players of NBA 2k20 with their details.
 
 If **non-numeric data types** are given for **numeric** (Float, Integer) query parameters, then they are **NOT TAKEN INTO** account.
 
-**For example:** ```curl https://players-rest-api.herokuapp.com/nba?overall=12s``` **is identical to**  ```curl https://players-rest-api.herokuapp.com/fifa```.
+**For example:** ```curl https://players-rest-api.herokuapp.com/nba?overall=12s``` **is identical to**  ```curl https://players-rest-api.herokuapp.com/nba```.
 
 
 
