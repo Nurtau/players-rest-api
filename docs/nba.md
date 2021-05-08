@@ -99,8 +99,6 @@ This line of code: ```curl https://players-rest-api.herokuapp.com/nnba```
 Returns a **below given** JSON data.
 ```json
 {
-  {
-    "message": "Command not found"
-  }
+  "message": "Command not found"
 }
 ```
