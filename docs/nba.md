@@ -22,7 +22,7 @@ Get the list of basketball players of NBA 2k20 with their details.
 | position      | [Optional] Use this parameter to filter a resulting list of </br> players by position field.      | String |
 | height     | [Optional] Use this parameter to filter a resulting list of </br> players by height (in cm) field.      | Float |
 | weight      | [Optional] Use this parameter to filter a resulting list of </br> players by weight (in kg) field.     | Float |
-| gt_salary      | [Optional] Use this parameter to filter a resulting list of </br> players and get players with salary (in U.S. Dollar) higher than </br> given in  query parameter.      | Integer |
+| gt_salary      | [Optional] Use this parameter to filter a resulting list of </br> players and get players with salary (in U.S. Dollar) higher </br> than given in  query parameter.      | Integer |
 | country      | [Optional] Use this parameter to filter a resulting list of </br> players by country field.      | String |
 | draft_year      | [Optional] Use this parameter to filter a resulting list of </br> players by draft_year field.      | Integer |
 | draft_round      | [Optional] Use this parameter to filter a resulting list of </br> players by draft_round field.      | Integer |
