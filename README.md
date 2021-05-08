@@ -9,7 +9,7 @@ The data retrieved from [FIFA](https://www.kaggle.com/stefanoleone992/fifa-20-co
 
 If you want to check it out, feel free to run in terminal ```curl https://players-rest-api.herokuapp.com/fifa?overall=92```
 
-If it **succeed**, you will get 
+If it **succeeds**, you will get 
 ```json
 {
   "data": [
@@ -38,7 +38,7 @@ If it **succeed**, you will get
   ]
 }
 ```
-If it **fail** you will get
+If it **fails** you will get
 ```json
 {
   "message": "System failed, please try again"
