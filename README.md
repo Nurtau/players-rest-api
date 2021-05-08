@@ -5,7 +5,7 @@ It is a REST API which returns a data about FIFA 2020 and NBA 2k20 players.
 
 Used *Node.js, Express.js and MongoDB* to implement the REST API.
 
-The data retrieved from [FIFA](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset) and [NBA](https://www.kaggle.com/isaienkov/nba2k20-player-dataset), and formatted by Python library pandas.
+The data were retrieved from [FIFA](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset) and [NBA](https://www.kaggle.com/isaienkov/nba2k20-player-dataset), and formatted by Python library pandas.
 
 If you want to check it out, feel free to run in terminal ```curl https://players-rest-api.herokuapp.com/fifa?overall=92```
 
