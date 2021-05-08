@@ -48,3 +48,11 @@ If it **fail** you will get
 ## Documentation
 1. [FIFA 2020 players](/docs/fifa.md)
 2. [NBA 2k20 players](/docs/nba.md)
+
+## Installation 
+To run it locally on your own computer:
+* [Fork](https://help.github.com/articles/fork-a-repo/) this repository
+* [Clone](https://help.github.com/articles/cloning-a-repository/) it to your
+  local device
+* Install the dependencies by ```npm install```
+* Run it by ```npm start```
