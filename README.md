@@ -1,6 +1,6 @@
 # Players REST API
 ## Overview
-It is a REST API which returns a data about the players of video games such as FIFA 2020 and NBA 2k20.
+It is a REST API which returns a data about FIFA 2020 and NBA 2k20 players.
 
 
 Used *Node.js, Express.js and MongoDB* to implement the REST API.
